@@ -6,4 +6,4 @@ Via [plug.kak](https://github.com/andreyorst/plug.kak):
 
 Put this in you `kakrc`:
 
-`plug "asyncial/kakoune-verilog"`
+`plug "tmahlburg/kakoune-verilog"`
